@@ -1,6 +1,4 @@
-![img1](https://user-images.githubusercontent.com/1221423/148459534-6e0c6b49-f74e-4a7e-b105-b7b9d19c9343.png)
-![img2](https://user-images.githubusercontent.com/1221423/148459543-419cfa78-0576-4e56-8cb8-522878315d16.png)
-![img3](https://user-images.githubusercontent.com/1221423/148459556-3723a939-fa71-492e-b2f4-8cc3206b2456.png)
+<img src=https://user-images.githubusercontent.com/1221423/148459829-d94a8add-48a1-4090-bec2-74f5eb1a3412.png>
 
 # Advance your journey
 
