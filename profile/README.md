@@ -2,7 +2,7 @@
 
 # Advance your journey
 
-_Grow your skills by completing fun, realistic projects. Get advice and helpful feedback from GitHub Actions._
+_Learn new skills by completing fun, realistic projects in your very own GitHub repository._
 
 - 💃🏻 **Learning should be fun**: There are no simulations or boring tutorials here, just hands-on lessons created by GitHub and taught with GitHub Actions.
 - 🛠 **Real projects**: Learn new skills while working in your own copy of a real project.
