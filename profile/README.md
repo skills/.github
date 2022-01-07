@@ -1,4 +1,4 @@
-<p align="center"><img src=https://user-images.githubusercontent.com/1221423/148459829-d94a8add-48a1-4090-bec2-74f5eb1a3412.png width=300></p>
+<img src=https://user-images.githubusercontent.com/1221423/148459829-d94a8add-48a1-4090-bec2-74f5eb1a3412.png width=300 align=right>
 
 # Advance your journey
 
