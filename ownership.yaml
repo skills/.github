@@ -8,7 +8,7 @@ ownership:
   ops_slack: docs-ops
   kind: logical
   maintainer: chiedo
-  team: github/docs-engineering
+  team: github/docs
   exec_sponsor: martinwoodward
   product_manager: emilyistoofunky
   repo: https://github.com/githublearn/.github
