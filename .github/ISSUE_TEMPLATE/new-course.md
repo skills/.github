@@ -44,8 +44,8 @@ Please look through the existing courses and make sure we aren't covering this o
 - [ ] Test your course. [🔗](https://github.com/githublearn/quickstart-guide#testing-and-monitoring-your-course)
   - [ ] Verify the course works as expected.
   - [ ] Review the [Quickstart Guide: Best practices](https://github.com/githublearn/quickstart-guide#best-practices-for-building-courses) to see if you've missed anything.
-  - [ ] Have someone review the content.
-  - [ ] Get a technical review for the course.
+  - [ ] Have someone review the content. @???
+  - [ ] Get a technical review for the course. @???
 - [ ] Publish your course.
   - [ ] Enable _public_ on your repository settings, or let learners know the course is ready to take.
   - [ ] Share your course with potential learners.
