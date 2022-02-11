@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**What are the learning objectives for the new course**
+**Describe the learning objectives for the new course**
 
 One or two learning objectives that can be completed in a GitHub repository in 3-5 steps.
 
 Please look through the existing courses and make sure we aren't covering this objective already.
 
-**What are the steps you will have the learner take**
+**Describe the steps you will have the learner take**
 
 1. Step 1
 2. Step 2
@@ -21,9 +21,9 @@ Please look through the existing courses and make sure we aren't covering this o
 4. Step 4
 5. Step 5 (Usually, merge your pull request)
 
------
+<!-- Then create your issue. Follow the steps below after you create the issue. -->
 
-### Tasks
+**Authoring steps**
 
 - [ ] Read the [Quickstart Guide](https://github.com/githublearn/quickstart-guide) on how to build courses.
 - [ ] Start by making the new repository using [template-template](https://github.com/githublearn/template-template).
