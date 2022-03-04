@@ -193,7 +193,6 @@ jobs:
     
     # We will only run this action when:
     # 1. This repository isn't the template repository
-    # 2. The STEP is currently '0' (see update-step.sh)
     # Reference https://docs.github.com/en/actions/learn-github-actions/contexts
     # Reference https://docs.github.com/en/actions/learn-github-actions/expressions
     if: ${{ github.repository_owner != 'githublearn' }}
@@ -212,10 +211,16 @@ Last, we are finally in the **steps** of the Actions workflow. This is the heart
 
       # Update README and set STEP to '1'
       - name: Update to step 1
-        run: ./.github/script/update-step.sh
+        uses: githublearn/action-update-step@v1.0.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ env.GITHUB_REPOSITORY }}
+          FROM_STEP: 0
+          TO_STEP: 1
+          BRANCH_NAME: my-first-branch
 ```
 
-You may include [`update-step.sh`](https://github.com/githublearn/introduction-to-github/blob/main/.github/script/update-step.sh) in your course,
+You may include the [update step action](https://github.com/githublearn/action-update-step) in your course,
 however it is not fully required. You may also customize this script to meet the needs of your course.
 
 Include thorough comments in your workflow files to describe each section. Other authors and your future self will thank you later.
