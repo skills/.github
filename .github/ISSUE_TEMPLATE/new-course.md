@@ -49,3 +49,4 @@ Please look through the existing courses and make sure we aren't covering this o
 - [ ] Publish your course.
   - [ ] Enable _public_ on your repository settings, or let learners know the course is ready to take.
   - [ ] Share your course with potential learners.
+- [ ] Add your course to [our Pages site](https://github.com/githublearn/.github/blob/main/docs/index.html).
