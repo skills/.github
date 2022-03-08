@@ -25,11 +25,11 @@ Please look through the existing courses and make sure we aren't covering this o
 
 **Authoring steps**
 
-- [ ] Read the [Quickstart Guide](https://github.com/githublearn/.github/blob/main/QUICKSTART.md) on how to build courses.
+- [ ] Read the [Quickstart Guide](https://githublearn.github.io/.github/quickstart) on how to build courses.
 - [ ] Start by making the new repository using [template-template](https://github.com/githublearn/template-template).
   > This will make the license file, `.gitignore`, and outline your course for you.
   > Start in _private_ as you work on your course.
-- [ ] Configure the new repository. [🔗](https://github.com/githublearn/.github/blob/main/QUICKSTART.md#set-up-your-repository)
+- [ ] Configure the new repository. [🔗](https://githublearn.github.io/.github/quickstart#set-up-your-repository)
   - [ ] Settings: Enable the template repository.
   - [ ] Settings: Add a 1280×640 social image.
   - [ ] Settings: Disable wikis, sponsorships, projects, discussions.
@@ -37,13 +37,13 @@ Please look through the existing courses and make sure we aren't covering this o
   - [ ] Settings: Enable auto-delete head branches.
   - [ ] Code/About: Add a description and tags.
   - [ ] Code/About: Disable releases, packages, and environments.
-- [ ] Build the README. [🔗](https://github.com/githublearn/.github/blob/main/QUICKSTART.md#writing-your-readme)
+- [ ] Build the README. [🔗](https://githublearn.github.io/.github/quickstart#writing-your-readme)
   > Go through the TBDs in the template README file, and follow the Quickstart Guide.
-- [ ] Build the steps. [🔗](https://github.com/githublearn/.github/blob/main/QUICKSTART.md#writing-your-actions-workflow-files)
+- [ ] Build the steps. [🔗](https://githublearn.github.io/.github/quickstart#writing-your-actions-workflow-files)
   > Go through the TBDs in the template workflow files, and follow the Quickstart Guide.
-- [ ] Test your course. [🔗](https://github.com/githublearn/.github/blob/main/QUICKSTART.md#testing-and-monitoring-your-course)
+- [ ] Test your course. [🔗](https://githublearn.github.io/.github/quickstart#testing-and-monitoring-your-course)
   - [ ] Verify the course works as expected.
-  - [ ] Review the [Quickstart Guide: Best practices](https://github.com/githublearn/.github/blob/main/QUICKSTART.md#best-practices-for-building-courses) to see if you've missed anything.
+  - [ ] Review the [Quickstart Guide: Best practices](https://githublearn.github.io/.github/quickstart#best-practices-for-building-courses) to see if you've missed anything.
   - [ ] Have someone review the content. @???
   - [ ] Get a technical review for the course. @???
 - [ ] Publish your course.
