@@ -3,6 +3,8 @@ layout: default
 title: GitHub Learn Quickstart Guide
 ---
 
+<div class="markdown-body">
+
 # GitHub Learn Quickstart Guide
 
 Build your own GitHub Actions-powered courses in a few simple steps.
@@ -267,3 +269,5 @@ Include thorough comments in your workflow files to describe each section. Other
 
 - Your course only matters if potential learners know about it. Where can you link to your course? If public, is social media an option?
 - Make sure your course includes keywords and text that someone would search for in Google and other search engines.
+
+</div>
