@@ -1,3 +1,8 @@
+---
+layout: default
+title: GitHub Learn Quickstart Guide
+---
+
 # GitHub Learn Quickstart Guide
 
 Build your own GitHub Actions-powered courses in a few simple steps.
