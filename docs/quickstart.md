@@ -200,7 +200,7 @@ jobs:
     # 1. This repository isn't the template repository
     # Reference https://docs.github.com/en/actions/learn-github-actions/contexts
     # Reference https://docs.github.com/en/actions/learn-github-actions/expressions
-    if: ${{ github.repository_owner != 'githublearn' }}
+    if: ${{ github.event.repository.template_repository != "" }}
 
     # We'll run Ubuntu for performance instead of Mac or Windows
     runs-on: ubuntu-latest
