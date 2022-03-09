@@ -35,7 +35,7 @@ Please look through the existing courses and make sure we aren't covering this o
   - [ ] Settings: Disable wikis, sponsorships, projects, discussions.
   - [ ] Settings: Enable only squash merging.
   - [ ] Settings: Enable auto-delete head branches.
-  - [ ] Code/About: Add a description and tags.
+  - [ ] Code/About: Add a description and topics. Include `learn-course` in topics.
   - [ ] Code/About: Disable releases, packages, and environments.
 - [ ] Build the README. [🔗](https://githublearn.github.io/.github/quickstart#writing-your-readme)
   > Go through the TBDs in the template README file, and follow the Quickstart Guide.
