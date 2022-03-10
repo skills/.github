@@ -200,7 +200,7 @@ jobs:
     # 1. This repository isn't the template repository
     # Reference https://docs.github.com/en/actions/learn-github-actions/contexts
     # Reference https://docs.github.com/en/actions/learn-github-actions/expressions
-    if: ${{ github.repository_owner != 'githublearn' }}
+    if: ${{ !github.event.repository.is_template }}
 
     # We'll run Ubuntu for performance instead of Mac or Windows
     runs-on: ubuntu-latest
@@ -216,13 +216,12 @@ Last, we are finally in the **steps** of the Actions workflow. This is the heart
 
       # Update README and set STEP to '1'
       - name: Update to step 1
-        uses: githublearn/action-update-step@v1.0.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ env.GITHUB_REPOSITORY }}
-          FROM_STEP: 0
-          TO_STEP: 1
-          BRANCH_NAME: my-first-branch
+        uses: githublearn/action-update-step@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          from_step: 0
+          to_step: 1
+          branch_name: my-first-branch
 ```
 
 You may include the [update step action](https://github.com/githublearn/action-update-step) in your course,
