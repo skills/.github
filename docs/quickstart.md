@@ -1,9 +1,9 @@
 ---
 layout: markdown
-title: GitHub Learn Quickstart Guide
+title: GitHub Skills Quickstart Guide
 ---
 
-# GitHub Learn Quickstart Guide
+# GitHub Skills Quickstart Guide
 
 Build your own GitHub Actions-powered courses in a few simple steps.
 
@@ -11,7 +11,7 @@ This guide covers planning your course, building your course, and best practices
 
 If you're interested in creating single exercises with GitHub Actions, check out [Project Looking Glass](https://github.com/githubtraining/looking-glass-action) instead.
 
-Take a look at our [GitHub Learn](https://github.com/githublearn) courses for examples and templates.
+Take a look at our [GitHub Skills](https://github.com/skills) courses for examples and templates.
 
 ## Author prerequisites
 
@@ -51,14 +51,14 @@ Some courses will require knowledge of [GitHub CLI](https://cli.github.com/manua
 - Add a 1280×640 social image. Learners will share your course on different websites that will pull in the social image.
 - [Enable the automatically delete head branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-the-automatic-deletion-of-branches) setting.
 - [Add a LICENSE file to your repository](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository). GitHub uses Creative Commons Attribution 4.0 International.
-- [Add a `.gitignore` file](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files). You can see an [example `.gitignore`](https://github.com/githublearn/introduction-to-github/blob/main/.gitignore). We recommend at minimum ignoring operating system generated files. 
+- [Add a `.gitignore` file](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files). You can see an [example `.gitignore`](https://github.com/skills/introduction-to-github/blob/main/.gitignore). We recommend at minimum ignoring operating system generated files.
 - Include `learn-course` in the [repository topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics).
 
 ## Writing your README
 
 Your README file will have a few sections: a header, a start step, three to five workflow steps, a finish step, and a footer.
 
-The raw source of the README in [Introduction to GitHub](https://github.com/githublearn/introduction-to-github) includes many comments you can use to guide the development of your course's README file.
+The raw source of the README in [Introduction to GitHub](https://github.com/skills/introduction-to-github) includes many comments you can use to guide the development of your course's README file.
 
 ### Writing your README: Header
 
@@ -80,7 +80,7 @@ Wrap your start section in:
 You'll want to include a clear direction on how to start the course, such as:
 
 ```md
-[![start-course](https://user-images.githubusercontent.com/1221423/154366775-5491926f-9ed1-4a4a-a229-0810c0ed7e5e.svg)](https://github.com/githublearn/TBD/generate)
+[![start-course](https://user-images.githubusercontent.com/1221423/154366775-5491926f-9ed1-4a4a-a229-0810c0ed7e5e.svg)](https://github.com/skills/TBD/generate)
 ```
 
 A brief paragraph should describe the goal of the course, what the learner will learn, and why they should take the course.
@@ -158,7 +158,7 @@ You can use [GitHub CLI](https://cli.github.com/) in your Actions workflows to p
 
 ### Writing your Actions workflow files: Sections of the workflow file
 
-Take a look at [Introduction to GitHub](https://github.com/githublearn/introduction-to-github/blob/main/.github/workflows) for example workflow files.
+Take a look at [Introduction to GitHub](https://github.com/skills/introduction-to-github/blob/main/.github/workflows) for example workflow files.
 
 Each workflow file has the name format: `N-brief-summary.yml`, where `N` is the step number and `brief-summary` describes the step. We recommend this format to make it easy to see the order the steps will run in.
 
@@ -217,7 +217,7 @@ Last, we are finally in the **steps** of the Actions workflow. This is the heart
 
       # Update README and set STEP to '1'
       - name: Update to step 1
-        uses: githublearn/action-update-step@v1
+        uses: skills/action-update-step@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 0
@@ -225,7 +225,7 @@ Last, we are finally in the **steps** of the Actions workflow. This is the heart
           branch_name: my-first-branch
 ```
 
-You may include the [update step action](https://github.com/githublearn/action-update-step) in your course,
+You may include the [update step action](https://github.com/skills/action-update-step) in your course,
 however it is not fully required. You may also customize this script to meet the needs of your course.
 
 Include thorough comments in your workflow files to describe each section. Other authors and your future self will thank you later.
