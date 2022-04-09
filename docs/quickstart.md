@@ -52,7 +52,7 @@ Some courses will require knowledge of [GitHub CLI](https://cli.github.com/manua
 - [Enable the automatically delete head branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-the-automatic-deletion-of-branches) setting.
 - [Add a LICENSE file to your repository](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository). GitHub uses Creative Commons Attribution 4.0 International.
 - [Add a `.gitignore` file](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files). You can see an [example `.gitignore`](https://github.com/skills/introduction-to-github/blob/main/.gitignore). We recommend at minimum ignoring operating system generated files.
-- Include `learn-course` in the [repository topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics).
+- Include `skills-course` in the [repository topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics).
 
 ## Writing your README
 
