@@ -1,8 +1,8 @@
-# GitHub Learn
+# GitHub Skills
 
-This is not a course. See https://github.com/githublearn for our list of available courses.
+This is not a course. See https://github.com/skills for our list of available courses.
 
-See [profile/README.md](profile/README.md) for more information about GitHub Learn.
+See [profile/README.md](profile/README.md) for more information about GitHub Skills.
 
 See [QUICKSTART.md](QUICKSTART.md) to learn how to build your own Actions-backed courses.
 
