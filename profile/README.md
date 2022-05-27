@@ -9,4 +9,4 @@ _Learn new skills by completing real projects right in GitHub._
 - **Helpful bot**: GitHub Actions provides instructions and feedback throughout your journey.
 - **Real workflow**: Everything happens with real GitHub features, such as Issues, Actions, and Codespaces.
 
-Get started building your own courses by with our [GitHub Skills Quickstart Guide](https://skills.github.com/quickstart). 🌟
+Get started building your own courses with our [GitHub Skills Quickstart Guide](https://skills.github.com/quickstart). 🌟
