@@ -1,4 +1,4 @@
-# GitHub Skills
+# GitHub Skills 
 
 _This is not a course._ See https://skills.github.com for our list of available courses.
 
