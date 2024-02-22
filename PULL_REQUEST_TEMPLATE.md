@@ -1,10 +1,15 @@
 ### Summary
+<!-- A clear and concise description of what the problem or opportunity is. -->
 
-A clear and concise description of what the problem or opportunity is. Link to an issue if relevant.
 
 ### Changes
+<!-- Describe the changes this pull request introduces. -->
 
-Describe the changes this pull request introduces.
+
+<!-- If there's an existing issue for your change, please link to it below next to "Closes".
+If there's _not_ an existing issue, please open one first to make it more likely that this update will be accepted. -->
+
+Closes:
 
 ### Task list
 
