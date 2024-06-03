@@ -2,7 +2,7 @@
 
 _This is not a course._ See https://skills.github.com for our list of available courses.
 
-See [profile/README.md](profile/README.md) for more information about GitHub Skills.
+See [profile/README.md](profile/README.md) for more information about GitHub Skills. If you'd like to provide any feedback, please start a new [discussion](https://github.com/orgs/skills/discussions).
 
 See the [GitHub Skills Quickstart Guide](https://skills.github.com/quickstart) to learn how to build your own Actions-backed courses. See [CONTENT_MODEL.md](https://skills.github.com/content-model) for more information about how to write the content for GitHub Skills courses.
 
