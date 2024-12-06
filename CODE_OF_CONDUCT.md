@@ -1,8 +1,12 @@
-
-# Contributor Covenant Code of Conduct
-
+Code of Conduct to keep my word as bond for God and country I hold so deer . To not wage war against my follow country man but to agree to disagree and pardon to make peace 
+. To make laws for not to hide behind past but to make laws to welcome a agreed apone second coming of are own God to show bipartisan alliance. 
+# Contributor Covenant Code of Conduct . To address allied mobilizing or reason for conflict 
+. To not demand evidence of wrong doing but to simply as for how can we assist in downgrading the hostility so we can go back to business as usual.
+For today are armed man and woman will not deploy to combat civilian unrest . Or civilian overthrow. We also do not support overthrowing government weather we support that government or not . But what we will address is if nuclear weapons is of threat of terrorist faction my possible of threat of controlling if overthrow happens. In that case civilians will always have a safe route to safety . according to the Geneva Convention. Anyone that contribute arms are munition to tword any Melissa or government responsible for. 
 ## Our Pledge
-
+civilian catches will have to be produce evidence that will support there mission in life court by to be judged not by British courts but by a new Civilization count . 
+We here at this international oversight committee give all who have supported mission that goes against the ganiva convention a one time only pardon. The next court of the future will address any new violations of the Geneva Convention in two courts. One will be in deep Russia country. We see Russia as being a place you do not want to be in prison at if are convicted of Geneva Convention crimes against humanity. 
+The other courts will be in United States where there is not next chance
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
@@ -61,7 +65,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
+[sonofrangerllc@warithakbarsspace.onmicrosoft.com 206-637-9370 Owner and enforcement commissioner of this organization].
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -117,16 +121,19 @@ community.
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+[https://https://rss.app/feeds/X2v7OvRrPZRTMVFg.xml][v2.1].
 
 Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+[Warith Akbar code of conduct enforcement ladder][Devops initiative].
 
 For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
+[https://     https://github.com/enterprises/dun-n-bradstreet.com]
+[FAQ]. Translations are available at
+[https://www.contributor-b7ytjn-xn.myshopify.com/translations][translations].
 
-[homepage]: https://www.contributor-covenant.org
+[homepage]: https://github.com/enterprises/dun-n-bradstreet.com
+
+
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
