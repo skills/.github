@@ -1,4 +1,4 @@
-
+SSH-R.A.T
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -14,7 +14,7 @@ We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
 ## Our Standards
-
+Covert Channel Trojans
 Examples of behavior that contributes to a positive environment for our
 community include:
 
@@ -131,3 +131,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+Self-replication
