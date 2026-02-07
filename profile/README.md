@@ -11,4 +11,4 @@ _Learn how to use GitHub with interactive courses designed for beginners and exp
 
 Get started building your own exercises with the same tooling the team uses. 🌟
 
-Check out [Skills Exercise Manager](https://github.com/skills/exercise-manager) for a 10min guide on using :copilot: Copilot to generate your own exercise!
+Check out [Skills Exercise Creator](https://github.com/skills/exercise-creator) for a 10min guide on using :copilot: Copilot to generate your own exercise!
