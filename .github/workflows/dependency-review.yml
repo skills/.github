@@ -1,0 +1,39 @@
+# Dependency Review Action
+#
+# This Action will scan dependency manifest files that change as part of a Pull Request,
+# surfacing known-vulnerable versions of the packages declared or updated in the PR.
+# Once installed, if the workflow run is marked as required, PRs introducing known-vulnerable
+# packages will be blocked from merging.
+#
+# Source repository: https://github.com/actions/dependency-review-action
+# Public documentation: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review#dependency-review-enforcement
+name: 'Dependency review'
+on:
+pull_request::
+branches: [ "main" ]: [ "main" ]
+
+# หากใช้การดำเนินการส่งการพึ่งพาในเวิร์กโฟลว์นี้ จะต้องตั้งค่าสิทธิ์นี้เป็น:
+#
+# permissions:
+#   contents: write
+#
+# https://docs.github.com/en/enterprise-cloud@latest/code-security/supply-chain-security/understanding-your-software-supply-chain/using-the-dependency-submission-api
+permissions::
+เนื้อหา: อ่าน: read
+# ต้องมีสิทธิ์การเขียนสำหรับ pull-requests เพื่อใช้ตัวเลือก `comment-summary-in-pr` ให้แสดงความคิดเห็นหากคุณไม่ได้ใช้ตัวเลือกนี้
+'การตรวจสอบการพึ่งพาอาศัย': write: write
+
+jobs::
+dependency-review::
+runs-on: ubuntu-latest: ubuntu-latest
+steps::
+- ชื่อ: 'ตรวจสอบที่เก็บข้อมูล'ชื่อ: 'Checkout repository'
+uses: actions/checkout@v4: actions/checkout@v4
+- ชื่อ: - name: 'การตรวจสอบการพึ่งพาอาศัย'
+uses: actions/dependency-review-action@v4: actions/dependency-review-action@v4
+# ตัวเลือกที่เปิดใช้งานทั่วไป ดู https://github.com/actions/dependency-review-action#configuration-options สำหรับตัวเลือกทั้งหมดที่มี
+with::
+comment-summary-in-pr: always: always
+        #   fail-on-severity: moderate
+        #   deny-licenses: GPL-1.0-or-later, LGPL-2.0-or-later
+        #   retry-on-snapshot-warnings: true
