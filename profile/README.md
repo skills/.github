@@ -9,6 +9,13 @@ _Learn how to use GitHub with interactive courses designed for beginners and exp
 - **Helpful guidance**: Your favorite Octocat provides instructions and feedback throughout your journey.
 - **Real workflow**: Everything happens with real GitHub features, such as Issues, Actions, and Codespaces.
 
-Get started building your own exercises with the same tooling the team uses. 🌟
+## Resources
 
-Check out [Skills Exercise Creator](https://github.com/skills/exercise-creator) for a 10min guide on using :copilot: Copilot to generate your own exercise!
+| Resource | Description |
+| --- | --- |
+| [GitHub Learn](https://learn.github.com/skills) | Catalogue of all available exercises |
+| [Releases Changelog](https://github.com/skills/releases) | Monthly changelog across all exercises and platform updates |
+| [Exercise Creator](https://github.com/skills/exercise-creator) | Documentation, guidelines, and Codespace for creating new and updating existing exercises |
+| [Exercise Toolkit](https://github.com/skills/exercise-toolkit) | Reusable pieces of automation and tooling used across exercises (e.g. reusable workflows, actions, markdown templates) |
+| [Exercise Template](https://github.com/skills/exercise-template) | Template repository for creating new exercise repositories — includes the baseline configuration and file structure |
+| [Triage Board](https://github.com/orgs/skills/projects/6/views/2) | Project board containing all valid user-reported issues and pull requests |
