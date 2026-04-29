@@ -1,2 +1,2 @@
-*.md @skills/skills-content-reviewers
-*.yml @skills/skills-technical-reviewers
+*.md @skills/content-reviewers
+*.yml @skills/technical-reviewers
