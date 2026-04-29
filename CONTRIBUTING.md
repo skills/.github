@@ -22,6 +22,7 @@ Found a bug, outdated content, or something that could be improved? Open an issu
 - Use a **descriptive title** and **detailed description** so we can understand and prioritize the problem.
   - Check existing issues before creating a new one to avoid duplicates.
 - Issues are collected on our [project board](https://github.com/orgs/skills/projects/6/views/2) for tracking and prioritization.
+  - Issues are not added to the board automatically. A daily process runs to filter out spam — expect your issue to appear on the board the following day.
 - You're welcome to pick up reported issues and implement fixes yourself.
 
 ### :wrench: Quick Fixes
