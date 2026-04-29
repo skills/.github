@@ -1,28 +1,63 @@
-## Contributing
+# Contributing to GitHub Skills
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+<img src="https://octodex.github.com/images/collabocats.jpg" alt="Collabocats" width="150" align="right"/>
 
-Contributions to this project are [released](https://docs.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license) to the public under the project's open source license.
+_We're thrilled that you'd like to contribute! Your help is essential for keeping GitHub Skills great._
 
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+> [!NOTE]
+> Contributions to this project are [released](https://docs.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license) to the public under the project's open source license.
 
-## Submitting a pull request
+## Table of Contents
 
-0. Fork and clone the repository
-0. Create a new branch: `git checkout -b my-branch-name`
-0. Make your change, and make sure the actions still work
-0. Push to your fork and submit a pull request
-0. Wait for your pull request to be reviewed and merged.
+- [Ways to Contribute](#ways-to-contribute)
+- [What We Won't Accept](#what-we-wont-accept)
+- [Resources](#resources)
 
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
+## Ways to Contribute
 
-- Follow the [style guide](https://github.com/github/docs/blob/main/contributing/content-style-guide.md).
-- Verify your actions workflows work as expected.
-- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
-- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+### :bug: Report Issues
+
+Found a bug, outdated content, or something that could be improved? Open an issue!
+
+- Use a **descriptive title** and **detailed description** so we can understand and prioritize the problem.
+  - Check existing issues before creating a new one to avoid duplicates.
+- Issues are collected on our [project board](https://github.com/orgs/skills/projects/6/views/2) for tracking and prioritization.
+  - Issues are not added to the board automatically. A daily process runs to filter out spam — expect your issue to appear on the board the following day.
+- You're welcome to pick up reported issues and implement fixes yourself.
+
+### :wrench: Quick Fixes
+
+See a typo, broken link, outdated screenshot, or other small problem? Fork the repository and submit a pull request directly.
+
+1. Fork the repository.
+1. Make your change, push to your fork, and open a PR.
+1. Wait for your pull request to be reviewed and merged.
+
+### :bulb: Larger Changes
+
+For significant changes (new steps, restructuring content, changing exercise flow), please **open an issue first** to discuss your proposal.
+
+- We may have intentional reasons for the current approach.
+- Discussing first avoids wasted effort on changes we can't accept.
+- Wait for maintainer feedback before investing significant time.
+
+### :construction_worker: Creating or Reworking Exercises
+
+If you want to create a new exercise or make substantial changes to an existing one, check out the [Exercise Creator](https://github.com/skills/exercise-creator) repository. It contains tooling, documentation, and guidelines for how exercises are structured, tested, and published.
+
+## What We Won't Accept
+
+To set expectations, here are some things we generally won't merge:
+
+- Content unrelated to GitHub, promotional material, or spam.
+- Changes that break existing learner flows without prior discussion.
+- Large refactors without an associated issue and maintainer approval.
 
 ## Resources
 
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-- [Using Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-- [GitHub Docs](https://docs.github.com/)
+| Resource                                                                             | Description                                                    |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| :clipboard: [Project Board](https://github.com/orgs/skills/projects/6/views/2)       | Tracked issues and PRs across all Skills exercises.            |
+| :construction_worker: [Exercise Creator](https://github.com/skills/exercise-creator) | Documentation and tooling for creating and updating exercises. |
+| :package: [Exercise Template](https://github.com/skills/exercise-template)           | Repository template for new exercises.                         |
+| :toolbox: [Exercise Toolkit](https://github.com/skills/exercise-toolkit)             | Reusable workflows, actions, and markdown templates.           |
