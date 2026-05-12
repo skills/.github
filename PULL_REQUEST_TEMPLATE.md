@@ -14,4 +14,4 @@ Closes:
 ### Task list
 
 - [ ] For workflow changes, I have verified the Actions workflows function as expected.
-- [ ] For content changes, I have reviewed the [style guide](https://github.com/github/docs/blob/main/contributing/content-style-guide.md).
+- [ ] For content changes, I have reviewed the [style guide](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide).
