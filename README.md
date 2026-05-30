@@ -54,3 +54,8 @@ Building bridges between Ethereum and the Thai community 🇹🇭. Focused on **
 
 ### 🌐 Farcaster Verification
 *Verified via Farcaster: pump482930.eth / @pump482930*
+---
+### Support the Project
+If this project helped you, please consider supporting me!
+[☕ Buy me a coffee](https://ko-fi.com/phonlawat)
+
