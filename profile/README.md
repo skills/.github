@@ -20,4 +20,4 @@ Use these resources to discover, create, and help us improve GitHub Skills:
 | :toolbox: [Exercise Toolkit](https://github.com/skills/exercise-toolkit)             | Reusable resources used across exercises, including workflows, actions, and markdown templates. |
 | :bookmark_tabs: [Changelog](https://github.com/skills/releases)                      | Monthly  release notes for exercise and platform updates across Skills repositories.         |
 | :office: [Skills for EMU](https://github.com/skills/skills-for-emu)                  | Guidelines on enabling GitHub Skills for Enterprise Managed User organizations.                 |
-| :copilot: [gh-skills-builder](https://awesome-copilot.github.com/plugin/gh-skills-builder/) | A Copilot plugin to help create GitHub Skills exercises in the Copilot app, CLI, and VS Code |
+| :copilot: [gh-skills-builder plugin](https://awesome-copilot.github.com/plugin/gh-skills-builder/) | A Copilot plugin to help create GitHub Skills exercises in the Copilot app, CLI, and VS Code |
